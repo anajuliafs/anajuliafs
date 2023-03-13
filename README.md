@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ana</h1>
+<h1 align="left">Hi, I'm Ana ✨</h1>
 <h4 align="left">Hey there! I'm a UX designer who's always on the hunt for new ways to improve my skills. I recently decided to dip my toes into front-end development to expand my design knowledge and see what all the fuss is about. Turns out, it's been a pretty fun ride! I love being curious and pushing myself to try new things, so I'm pretty excited to see where this new knowledge takes me... </h4>
 
 <div id="header" align="left">
